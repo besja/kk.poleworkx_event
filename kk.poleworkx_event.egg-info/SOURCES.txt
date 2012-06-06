@@ -12,4 +12,7 @@ kk.poleworkx_event.egg-info/paster_plugins.txt
 kk.poleworkx_event.egg-info/requires.txt
 kk.poleworkx_event.egg-info/top_level.txt
 kk/poleworkx_event/__init__.py
+kk/poleworkx_event/extender.py
+kk/poleworkx_event/interfaces.py
 kk/poleworkx_event/tests.py
+kk/poleworkx_event/browser/__init__.py

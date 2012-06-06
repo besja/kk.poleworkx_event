@@ -25,6 +25,7 @@ setup(name='kk.poleworkx_event',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'archetypes.schemaextender', 
           # -*- Extra requirements: -*-
       ],
       entry_points="""
